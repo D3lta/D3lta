@@ -1,3 +1,10 @@
+<blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><head><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><body><blockquote><blockquote><blockquote><blockquote><head><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><html><blockquote><blockquote><blockquote><blockquote><blockquote><body><blockquote><blockquote><blockquote><blockquote><body><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><head><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><body><blockquote><blockquote><blockquote><blockquote><head><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><html><blockquote><blockquote><blockquote><blockquote><blockquote><body><blockquote><blockquote><blockquote><blockquote><body><blockquote><blockquote><blockquote><head><blockquote><blockquote></html><blockquote class='tabnav'><blockquote><blockquote><blockquote>Mew!,<br>
+  
+## WORKING ON
+- Making infrastructure available for my friends and I to deploy applications <!-- and to standardize and simplify basic configurations for hosting public facing and backend apps  (like Internal Developer Platform (IDP) / GitOps / Platform as a Service inspired but simplified) -->
+- Creating a Github Application to handle events to show rich notifications (WIP)
+- Moderation tools/automation for Discord/Steam
+
 ## TOOLS & TECHNOLOGIES
 
 ### LANGUAGES
@@ -5,6 +12,7 @@
 ![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C# Badge](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+<!--
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -33,6 +41,6 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
+-->
 
 
